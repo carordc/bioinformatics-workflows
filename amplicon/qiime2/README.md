@@ -15,14 +15,6 @@ This section includes workflows for:
 - Alpha diversity
 - Beta diversity
 
-## Amplicon markers
-
-Workflows may include:
-
-- 16S rRNA
-- 18S rRNA
-- ITS
-
 ## Notes
 
 Parameters such as trimming and truncation lengths should be adjusted according to the sequencing run and read quality.
